@@ -42,5 +42,5 @@ Aqui el link para ir a la pagina principal de Git:
 
 1. **Espacio de trabajo**. Es precisamente la carpeta donde está el proyecto. Todo lo que podemos ver.
 2. **Area de preparacion.** Es un punto intermedio, donde nosotros le estaremos indicando a Git cuales archivos van a ser preparados para ser enviados al respositorio.
-3. **Repositorio (carpeta .git)**
+3. **Repositorio (carpeta .git)**: Es donde se almacenan los metadatos y la base de datos de objetos para tu proyecto. Es la parte más importante de Git y es lo que se copia cuando clonas un repositorio desde otra computadora.
 
